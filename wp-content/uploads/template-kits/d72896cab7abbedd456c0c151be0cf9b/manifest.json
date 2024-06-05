@@ -1,0 +1,1218 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Makeup Brand",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 Pro",
+            "screenshot": "screenshots\/home-2-pro.jpg",
+            "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4 Pro",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Skincare",
+            "screenshot": "screenshots\/skincare.jpg",
+            "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Products",
+            "screenshot": "screenshots\/our-products.jpg",
+            "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Featured Products",
+            "screenshot": "screenshots\/featured-products.jpg",
+            "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Locations",
+            "screenshot": "screenshots\/our-locations.jpg",
+            "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Help &amp; Support Pro",
+            "screenshot": "screenshots\/help-amp-support-pro.jpg",
+            "source": "templates\/help-amp-support-pro-3d8b5b55bd06628ffe1a2d05fbf945ca.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon-b1d814afd3672dc420fa63d8c18659f4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon Pro",
+            "screenshot": "screenshots\/coming-soon-pro.jpg",
+            "source": "templates\/coming-soon-pro-0c30daa8a89fabb4c1b426d2122e179c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-6bf18e44e6e03e9f07727750bc8522ba.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "image-from-rawpixel-id-523363-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/image-from-rawpixel-id-523363-jpeg-500x637.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                },
+                {
+                    "source": "templates\/help-amp-support-pro-3d8b5b55bd06628ffe1a2d05fbf945ca.json",
+                    "name": "Help &amp; Support Pro"
+                },
+                {
+                    "source": "templates\/coming-soon-b1d814afd3672dc420fa63d8c18659f4.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/coming-soon-pro-0c30daa8a89fabb4c1b426d2122e179c.json",
+                    "name": "Coming Soon Pro"
+                },
+                {
+                    "source": "templates\/popup-6bf18e44e6e03e9f07727750bc8522ba.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 208383,
+            "dimensions": [
+                941,
+                1199
+            ]
+        },
+        {
+            "filename": "adolescent-adult-attractive-1462637.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/adolescent-adult-attractive-1462637-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                }
+            ],
+            "filesize": 223194,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "assorted-cosmetics-lipsticks-1625037.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/assorted-cosmetics-lipsticks-1625037-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 76774,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-523355-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/image-from-rawpixel-id-523355-jpeg-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                },
+                {
+                    "source": "templates\/help-amp-support-pro-3d8b5b55bd06628ffe1a2d05fbf945ca.json",
+                    "name": "Help &amp; Support Pro"
+                },
+                {
+                    "source": "templates\/coming-soon-b1d814afd3672dc420fa63d8c18659f4.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 225101,
+            "dimensions": [
+                1200,
+                1200
+            ]
+        },
+        {
+            "filename": "beautiful-cosmetics-make-up-1499516.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/beautiful-cosmetics-make-up-1499516-500x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 244149,
+            "dimensions": [
+                1920,
+                2560
+            ]
+        },
+        {
+            "filename": "sponge.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/sponge.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                }
+            ],
+            "filesize": 274839,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "mask1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/mask1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                }
+            ],
+            "filesize": 121366,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "tea.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/tea-500x364.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                }
+            ],
+            "filesize": 758893,
+            "dimensions": [
+                1000,
+                728
+            ]
+        },
+        {
+            "filename": "beauty-make-up-make-up-brushes-205923.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/beauty-make-up-make-up-brushes-205923-500x302.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 111610,
+            "dimensions": [
+                1280,
+                773
+            ]
+        },
+        {
+            "filename": "soap1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/soap1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                }
+            ],
+            "filesize": 138922,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-523357-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/image-from-rawpixel-id-523357-jpeg-500x488.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/help-amp-support-pro-3d8b5b55bd06628ffe1a2d05fbf945ca.json",
+                    "name": "Help &amp; Support Pro"
+                }
+            ],
+            "filesize": 270192,
+            "dimensions": [
+                1200,
+                1170
+            ]
+        },
+        {
+            "filename": "attractive-beautiful-face-2092474.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/attractive-beautiful-face-2092474-500x582.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                },
+                {
+                    "source": "templates\/popup-6bf18e44e6e03e9f07727750bc8522ba.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 276716,
+            "dimensions": [
+                1920,
+                2234
+            ]
+        },
+        {
+            "filename": "video-icon.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/video-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 849,
+            "dimensions": [
+                76,
+                76
+            ]
+        },
+        {
+            "filename": "brushing-on-makeup.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/brushing-on-makeup-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                }
+            ],
+            "filesize": 1322810,
+            "dimensions": [
+                2975,
+                4460
+            ]
+        },
+        {
+            "filename": "blur-cheese-close-up-773253.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/blur-cheese-close-up-773253-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                }
+            ],
+            "filesize": 185313,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "beauty-close-up-color-925381.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/beauty-close-up-color-925381-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-bc637e1d881c613b98eb25aa5f9828f8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 189239,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "product3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/product3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-0b4d3088e7a72d3696c71091fec5ade5.json",
+                    "name": "Home 2 Pro"
+                },
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 18507,
+            "dimensions": [
+                1000,
+                700
+            ]
+        },
+        {
+            "filename": "asian-model-attractive-beautiful-1782282.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/asian-model-attractive-beautiful-1782282-500x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 678693,
+            "dimensions": [
+                1920,
+                2388
+            ]
+        },
+        {
+            "filename": "mask2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/mask2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 112905,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "PeopleImages2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/PeopleImages2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-27325adef400b5ae348a76f29b55451c.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                }
+            ],
+            "filesize": 250,
+            "dimensions": [
+                0,
+                0
+            ]
+        },
+        {
+            "filename": "attractive-close-up-eye-1202000.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/attractive-close-up-eye-1202000-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                }
+            ],
+            "filesize": 145034,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "beautiful-black-hair-close-up-2042958.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/beautiful-black-hair-close-up-2042958-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 666774,
+            "dimensions": [
+                2000,
+                3000
+            ]
+        },
+        {
+            "filename": "reshot-makeup1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/reshot-makeup1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 551582,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "cream.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/cream.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/skincare-53678042ace297dbd499cfd6b6d6a9cf.json",
+                    "name": "Skincare"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 256116,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "brushes-cosmetics-desk-2253833.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/brushes-cosmetics-desk-2253833-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-3ececc954c6d070750e2b0b172b101d1.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 117893,
+            "dimensions": [
+                1280,
+                854
+            ]
+        },
+        {
+            "filename": "team5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/team5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 17376,
+            "dimensions": [
+                500,
+                600
+            ]
+        },
+        {
+            "filename": "armond.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/armond.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                }
+            ],
+            "filesize": 755,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "bastil.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/bastil.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                }
+            ],
+            "filesize": 1544,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "bolier.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/bolier.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                }
+            ],
+            "filesize": 884,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "darkside.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/darkside.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                }
+            ],
+            "filesize": 1476,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "digit.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/digit.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-815dd0abd90c6c23bcb4b87ca946cf8b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq-8eaa849322e9be4b73a6a248bfa9a479.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/our-locations-aedf82a609f2c648298ade18427d3b8e.json",
+                    "name": "Our Locations"
+                }
+            ],
+            "filesize": 699,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "43fac6b5-44db-44df-bdc9-b54aaf7b2a8a.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/43fac6b5-44db-44df-bdc9-b54aaf7b2a8a-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-86182a41677a6369a22d69d4572cf9c4.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 1063421,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-products-a0ee2fe46e05a86e2ef070252436388c.json",
+                    "name": "Our Products"
+                }
+            ],
+            "filesize": 11135,
+            "dimensions": [
+                500,
+                600
+            ]
+        },
+        {
+            "filename": "testimonial-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 6211,
+            "dimensions": [
+                200,
+                200
+            ]
+        },
+        {
+            "filename": "689bf9a8-f884-4a11-acc1-575192c8b300.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/689bf9a8-f884-4a11-acc1-575192c8b300-500x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/featured-products-a973d763e5299a08f67f6e3ae6d85d5a.json",
+                    "name": "Featured Products"
+                }
+            ],
+            "filesize": 458854,
+            "dimensions": [
+                1500,
+                2000
+            ]
+        },
+        {
+            "filename": "d2d1f7c0-d00c-485e-aadd-480bc4045604.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/d2d1f7c0-d00c-485e-aadd-480bc4045604-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/help-amp-support-pro-3d8b5b55bd06628ffe1a2d05fbf945ca.json",
+                    "name": "Help &amp; Support Pro"
+                }
+            ],
+            "filesize": 2384035,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "70b2e411-2eaf-468e-b09d-626939e7bda6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-77\/wp-content\/uploads\/sites\/92\/2018\/09\/70b2e411-2eaf-468e-b09d-626939e7bda6-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/help-amp-support-pro-3d8b5b55bd06628ffe1a2d05fbf945ca.json",
+                    "name": "Help &amp; Support Pro"
+                }
+            ],
+            "filesize": 2873410,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        }
+    ]
+}

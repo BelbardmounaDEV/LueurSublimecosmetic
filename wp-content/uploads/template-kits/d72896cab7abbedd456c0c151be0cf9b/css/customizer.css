@@ -1,0 +1,11 @@
+/* Envato Kit Custom CSS - classes are applied to the Advanced tab of the element they affect */
+.envato-kit-77-caption figcaption{
+	position: absolute;
+	bottom: 10%;
+	right: 5%;
+}
+
+.envato-kit-77-playicon img{
+	width: 75px !important;
+	display: inline-block !important;
+}
